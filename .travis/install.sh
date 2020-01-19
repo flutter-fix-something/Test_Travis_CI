@@ -7,5 +7,4 @@ unzip -d flutter flutter_macos_v1.12.13+hotfix.5-stable.zip
 
 FLUTTER=$PWD/flutter/bin/flutter
 
-$FLUTTER doctor
-$FLUTTER analyze lib
+$FLUTTER doctor -v

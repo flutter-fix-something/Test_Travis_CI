@@ -4,4 +4,4 @@ os: osx
 osx_image: xcode11.3
 
 install:
-  - ./travis/install.sh
+  - ./.travis/install.sh
